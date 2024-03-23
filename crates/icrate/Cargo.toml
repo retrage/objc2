@@ -3364,6 +3364,227 @@ UserNotifications_all = [
     "UserNotifications_UNNotificationTrigger",
     "UserNotifications_UNUserNotificationCenter",
 ]
+Virtualization = [
+    "AppKit",
+    "Foundation",
+]
+Virtualization_VZAudioDeviceConfiguration = []
+Virtualization_VZAudioInputStreamSource = []
+Virtualization_VZAudioOutputStreamSink = []
+Virtualization_VZBootLoader = []
+Virtualization_VZBridgedNetworkDeviceAttachment = []
+Virtualization_VZBridgedNetworkInterface = []
+Virtualization_VZConsoleDevice = []
+Virtualization_VZConsoleDeviceConfiguration = []
+Virtualization_VZConsolePortConfiguration = []
+Virtualization_VZDefines = []
+Virtualization_VZDirectoryShare = []
+Virtualization_VZDirectorySharingDevice = []
+Virtualization_VZDirectorySharingDeviceConfiguration = []
+Virtualization_VZDiskBlockDeviceStorageDeviceAttachment = []
+Virtualization_VZDiskImageStorageDeviceAttachment = []
+Virtualization_VZDiskSynchronizationMode = []
+Virtualization_VZEFIBootLoader = []
+Virtualization_VZEFIVariableStore = []
+Virtualization_VZEntropyDeviceConfiguration = []
+Virtualization_VZError = []
+Virtualization_VZFileHandleNetworkDeviceAttachment = []
+Virtualization_VZFileHandleSerialPortAttachment = []
+Virtualization_VZFileSerialPortAttachment = []
+Virtualization_VZGenericMachineIdentifier = []
+Virtualization_VZGenericPlatformConfiguration = []
+Virtualization_VZGraphicsDevice = []
+Virtualization_VZGraphicsDeviceConfiguration = []
+Virtualization_VZGraphicsDisplay = []
+Virtualization_VZGraphicsDisplayConfiguration = []
+Virtualization_VZHostAudioInputStreamSource = []
+Virtualization_VZHostAudioOutputStreamSink = []
+Virtualization_VZKeyboardConfiguration = []
+Virtualization_VZLinuxBootLoader = []
+Virtualization_VZLinuxRosettaAbstractSocketCachingOptions = []
+Virtualization_VZLinuxRosettaCachingOptions = []
+Virtualization_VZLinuxRosettaDirectoryShare = []
+Virtualization_VZLinuxRosettaUnixSocketCachingOptions = []
+Virtualization_VZMACAddress = []
+Virtualization_VZMacAuxiliaryStorage = []
+Virtualization_VZMacGraphicsDevice = []
+Virtualization_VZMacGraphicsDeviceConfiguration = []
+Virtualization_VZMacGraphicsDisplay = []
+Virtualization_VZMacGraphicsDisplayConfiguration = []
+Virtualization_VZMacHardwareModel = []
+Virtualization_VZMacKeyboardConfiguration = []
+Virtualization_VZMacMachineIdentifier = []
+Virtualization_VZMacOSBootLoader = []
+Virtualization_VZMacOSConfigurationRequirements = []
+Virtualization_VZMacOSInstaller = []
+Virtualization_VZMacOSRestoreImage = []
+Virtualization_VZMacOSVirtualMachineStartOptions = []
+Virtualization_VZMacPlatformConfiguration = []
+Virtualization_VZMacTrackpadConfiguration = []
+Virtualization_VZMemoryBalloonDevice = []
+Virtualization_VZMemoryBalloonDeviceConfiguration = []
+Virtualization_VZMultipleDirectoryShare = []
+Virtualization_VZNATNetworkDeviceAttachment = []
+Virtualization_VZNVMExpressControllerDeviceConfiguration = []
+Virtualization_VZNetworkBlockDeviceStorageDeviceAttachment = []
+Virtualization_VZNetworkDevice = []
+Virtualization_VZNetworkDeviceAttachment = []
+Virtualization_VZNetworkDeviceConfiguration = []
+Virtualization_VZPlatformConfiguration = []
+Virtualization_VZPointingDeviceConfiguration = []
+Virtualization_VZSerialPortAttachment = []
+Virtualization_VZSerialPortConfiguration = []
+Virtualization_VZSharedDirectory = []
+Virtualization_VZSingleDirectoryShare = []
+Virtualization_VZSocketDevice = []
+Virtualization_VZSocketDeviceConfiguration = []
+Virtualization_VZSpiceAgentPortAttachment = []
+Virtualization_VZStorageDeviceAttachment = []
+Virtualization_VZStorageDeviceConfiguration = []
+Virtualization_VZUSBKeyboardConfiguration = []
+Virtualization_VZUSBMassStorageDeviceConfiguration = []
+Virtualization_VZUSBScreenCoordinatePointingDeviceConfiguration = []
+Virtualization_VZVirtioBlockDeviceConfiguration = []
+Virtualization_VZVirtioConsoleDevice = []
+Virtualization_VZVirtioConsoleDeviceConfiguration = []
+Virtualization_VZVirtioConsoleDeviceSerialPortConfiguration = []
+Virtualization_VZVirtioConsolePort = []
+Virtualization_VZVirtioConsolePortArray = []
+Virtualization_VZVirtioConsolePortConfiguration = []
+Virtualization_VZVirtioConsolePortConfigurationArray = []
+Virtualization_VZVirtioEntropyDeviceConfiguration = []
+Virtualization_VZVirtioFileSystemDevice = []
+Virtualization_VZVirtioFileSystemDeviceConfiguration = []
+Virtualization_VZVirtioGraphicsDevice = []
+Virtualization_VZVirtioGraphicsDeviceConfiguration = []
+Virtualization_VZVirtioGraphicsScanout = []
+Virtualization_VZVirtioGraphicsScanoutConfiguration = []
+Virtualization_VZVirtioNetworkDeviceConfiguration = []
+Virtualization_VZVirtioSocketConnection = []
+Virtualization_VZVirtioSocketDevice = []
+Virtualization_VZVirtioSocketDeviceConfiguration = []
+Virtualization_VZVirtioSocketListener = []
+Virtualization_VZVirtioSoundDeviceConfiguration = []
+Virtualization_VZVirtioSoundDeviceInputStreamConfiguration = []
+Virtualization_VZVirtioSoundDeviceOutputStreamConfiguration = []
+Virtualization_VZVirtioSoundDeviceStreamConfiguration = []
+Virtualization_VZVirtioTraditionalMemoryBalloonDevice = []
+Virtualization_VZVirtioTraditionalMemoryBalloonDeviceConfiguration = []
+Virtualization_VZVirtualMachine = []
+Virtualization_VZVirtualMachineConfiguration = []
+Virtualization_VZVirtualMachineDelegate = []
+Virtualization_VZVirtualMachineStartOptions = []
+Virtualization_VZVirtualMachineView = []
+Virtualization_all = [
+    "Virtualization",
+    "Virtualization_VZAudioDeviceConfiguration",
+    "Virtualization_VZAudioInputStreamSource",
+    "Virtualization_VZAudioOutputStreamSink",
+    "Virtualization_VZBootLoader",
+    "Virtualization_VZBridgedNetworkDeviceAttachment",
+    "Virtualization_VZBridgedNetworkInterface",
+    "Virtualization_VZConsoleDevice",
+    "Virtualization_VZConsoleDeviceConfiguration",
+    "Virtualization_VZConsolePortConfiguration",
+    "Virtualization_VZDefines",
+    "Virtualization_VZDirectoryShare",
+    "Virtualization_VZDirectorySharingDevice",
+    "Virtualization_VZDirectorySharingDeviceConfiguration",
+    "Virtualization_VZDiskBlockDeviceStorageDeviceAttachment",
+    "Virtualization_VZDiskImageStorageDeviceAttachment",
+    "Virtualization_VZDiskSynchronizationMode",
+    "Virtualization_VZEFIBootLoader",
+    "Virtualization_VZEFIVariableStore",
+    "Virtualization_VZEntropyDeviceConfiguration",
+    "Virtualization_VZError",
+    "Virtualization_VZFileHandleNetworkDeviceAttachment",
+    "Virtualization_VZFileHandleSerialPortAttachment",
+    "Virtualization_VZFileSerialPortAttachment",
+    "Virtualization_VZGenericMachineIdentifier",
+    "Virtualization_VZGenericPlatformConfiguration",
+    "Virtualization_VZGraphicsDevice",
+    "Virtualization_VZGraphicsDeviceConfiguration",
+    "Virtualization_VZGraphicsDisplay",
+    "Virtualization_VZGraphicsDisplayConfiguration",
+    "Virtualization_VZHostAudioInputStreamSource",
+    "Virtualization_VZHostAudioOutputStreamSink",
+    "Virtualization_VZKeyboardConfiguration",
+    "Virtualization_VZLinuxBootLoader",
+    "Virtualization_VZLinuxRosettaAbstractSocketCachingOptions",
+    "Virtualization_VZLinuxRosettaCachingOptions",
+    "Virtualization_VZLinuxRosettaDirectoryShare",
+    "Virtualization_VZLinuxRosettaUnixSocketCachingOptions",
+    "Virtualization_VZMACAddress",
+    "Virtualization_VZMacAuxiliaryStorage",
+    "Virtualization_VZMacGraphicsDevice",
+    "Virtualization_VZMacGraphicsDeviceConfiguration",
+    "Virtualization_VZMacGraphicsDisplay",
+    "Virtualization_VZMacGraphicsDisplayConfiguration",
+    "Virtualization_VZMacHardwareModel",
+    "Virtualization_VZMacKeyboardConfiguration",
+    "Virtualization_VZMacMachineIdentifier",
+    "Virtualization_VZMacOSBootLoader",
+    "Virtualization_VZMacOSConfigurationRequirements",
+    "Virtualization_VZMacOSInstaller",
+    "Virtualization_VZMacOSRestoreImage",
+    "Virtualization_VZMacOSVirtualMachineStartOptions",
+    "Virtualization_VZMacPlatformConfiguration",
+    "Virtualization_VZMacTrackpadConfiguration",
+    "Virtualization_VZMemoryBalloonDevice",
+    "Virtualization_VZMemoryBalloonDeviceConfiguration",
+    "Virtualization_VZMultipleDirectoryShare",
+    "Virtualization_VZNATNetworkDeviceAttachment",
+    "Virtualization_VZNVMExpressControllerDeviceConfiguration",
+    "Virtualization_VZNetworkBlockDeviceStorageDeviceAttachment",
+    "Virtualization_VZNetworkDevice",
+    "Virtualization_VZNetworkDeviceAttachment",
+    "Virtualization_VZNetworkDeviceConfiguration",
+    "Virtualization_VZPlatformConfiguration",
+    "Virtualization_VZPointingDeviceConfiguration",
+    "Virtualization_VZSerialPortAttachment",
+    "Virtualization_VZSerialPortConfiguration",
+    "Virtualization_VZSharedDirectory",
+    "Virtualization_VZSingleDirectoryShare",
+    "Virtualization_VZSocketDevice",
+    "Virtualization_VZSocketDeviceConfiguration",
+    "Virtualization_VZSpiceAgentPortAttachment",
+    "Virtualization_VZStorageDeviceAttachment",
+    "Virtualization_VZStorageDeviceConfiguration",
+    "Virtualization_VZUSBKeyboardConfiguration",
+    "Virtualization_VZUSBMassStorageDeviceConfiguration",
+    "Virtualization_VZUSBScreenCoordinatePointingDeviceConfiguration",
+    "Virtualization_VZVirtioBlockDeviceConfiguration",
+    "Virtualization_VZVirtioConsoleDevice",
+    "Virtualization_VZVirtioConsoleDeviceConfiguration",
+    "Virtualization_VZVirtioConsoleDeviceSerialPortConfiguration",
+    "Virtualization_VZVirtioConsolePort",
+    "Virtualization_VZVirtioConsolePortArray",
+    "Virtualization_VZVirtioConsolePortConfiguration",
+    "Virtualization_VZVirtioConsolePortConfigurationArray",
+    "Virtualization_VZVirtioEntropyDeviceConfiguration",
+    "Virtualization_VZVirtioFileSystemDevice",
+    "Virtualization_VZVirtioFileSystemDeviceConfiguration",
+    "Virtualization_VZVirtioGraphicsDevice",
+    "Virtualization_VZVirtioGraphicsDeviceConfiguration",
+    "Virtualization_VZVirtioGraphicsScanout",
+    "Virtualization_VZVirtioGraphicsScanoutConfiguration",
+    "Virtualization_VZVirtioNetworkDeviceConfiguration",
+    "Virtualization_VZVirtioSocketConnection",
+    "Virtualization_VZVirtioSocketDevice",
+    "Virtualization_VZVirtioSocketDeviceConfiguration",
+    "Virtualization_VZVirtioSocketListener",
+    "Virtualization_VZVirtioSoundDeviceConfiguration",
+    "Virtualization_VZVirtioSoundDeviceInputStreamConfiguration",
+    "Virtualization_VZVirtioSoundDeviceOutputStreamConfiguration",
+    "Virtualization_VZVirtioSoundDeviceStreamConfiguration",
+    "Virtualization_VZVirtioTraditionalMemoryBalloonDevice",
+    "Virtualization_VZVirtioTraditionalMemoryBalloonDeviceConfiguration",
+    "Virtualization_VZVirtualMachine",
+    "Virtualization_VZVirtualMachineConfiguration",
+    "Virtualization_VZVirtualMachineDelegate",
+    "Virtualization_VZVirtualMachineStartOptions",
+    "Virtualization_VZVirtualMachineView",
+]
 WebKit = [
     "AppKit",
     "Foundation",
@@ -3818,6 +4039,7 @@ unstable-frameworks-macos-11 = [
     "Speech_all",
     "UniformTypeIdentifiers_all",
     "UserNotifications_all",
+    "Virtualization_all",
     "unstable-frameworks-macos-10-13",
 ]
 unstable-frameworks-macos-12 = [

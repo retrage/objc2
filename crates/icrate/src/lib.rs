@@ -256,3 +256,5 @@ pub use self::generated::StoreKit;
 pub use self::generated::UniformTypeIdentifiers;
 #[cfg(feature = "UserNotifications")]
 pub use self::generated::UserNotifications;
+#[cfg(feature = "Virtualization")]
+pub use self::generated::Virtualization;
