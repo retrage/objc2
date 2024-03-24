@@ -107,6 +107,8 @@ objective-c = ["objc2"]
 # Deprecated.
 block = ["block2"]
 
+queue = []
+
 # For better documentation on docs.rs
 unstable-docsrs = []
 

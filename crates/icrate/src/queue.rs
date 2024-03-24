@@ -145,7 +145,7 @@ impl QueueAttribute {
 /// https://developer.apple.com/library/mac/documentation/Performance/Reference/GCD_libdispatch_Ref/index.html).
 #[derive(Debug)]
 pub struct Queue {
-    pub(crate) ptr: dispatch_queue_t,
+    pub ptr: dispatch_queue_t,
 }
 
 impl Queue {

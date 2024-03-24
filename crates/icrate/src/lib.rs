@@ -142,8 +142,7 @@ mod additions;
 mod common;
 #[allow(unreachable_pub)]
 mod generated;
-#[allow(unreachable_pub)]
-mod queue;
+pub mod queue;
 
 /// Deprecated alias of [`Foundation::ns_string`].
 #[macro_export]
