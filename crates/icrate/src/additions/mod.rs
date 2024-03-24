@@ -21,5 +21,7 @@ pub mod MetricKit;
 pub mod Photos;
 #[cfg(feature = "QuartzCore")]
 pub mod QuartzCore;
+#[cfg(feature = "Virtualization")]
+pub mod Virtualization;
 #[cfg(feature = "WebKit")]
 pub mod WebKit;
