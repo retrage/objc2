@@ -4041,7 +4041,6 @@ unstable-frameworks-macos-11 = [
     "Speech_all",
     "UniformTypeIdentifiers_all",
     "UserNotifications_all",
-    "Virtualization_all",
     "unstable-frameworks-macos-10-13",
 ]
 unstable-frameworks-macos-12 = [
@@ -4050,6 +4049,7 @@ unstable-frameworks-macos-12 = [
     "LocalAuthenticationEmbeddedUI_all",
     "MailKit_all",
     "MetricKit_all",
+    "Virtualization_all",
     "unstable-frameworks-macos-11",
 ]
 unstable-frameworks-macos-13 = [
