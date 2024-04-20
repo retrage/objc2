@@ -444,6 +444,10 @@ tvos = "10.0"
 watchos = "3.0"
 visionos = "1.0"
 
+[library.Virtualization]
+imports = ["AppKit", "Foundation"]
+macos = "12.0"
+
 [library.WebKit]
 crate = "objc2-web-kit"
 required-dependencies = ["objc2-foundation"]
@@ -1835,4 +1839,14 @@ skipped = true
 
 # Private
 [fn._MXSignpostMetricsSnapshot]
+skipped = true
+
+# Needs `ether_addr_t`
+[class.VZMACAddress.methods."initWithEthernetAddress:"]
+skipped = true
+# Needs `ether_addr_t`
+[class.VZMACAddress.methods.ethernetAddress]
+skipped = true
+# Needs `dispatch_queue_t`
+[class.VZVirtualMachine.methods."initWithConfiguration:queue:"]
 skipped = true
